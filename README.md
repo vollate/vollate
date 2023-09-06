@@ -1,7 +1,7 @@
 # Hi there 👋, this is Vollate
 - College student in SUSTech(spirtual SUSTCer).
 - Major in CS
-- [My blog](https://blog.uint44t.icu)
+- [My blog](https://blog.vollate.top)
 ## Develop Platform & Skills
 
 ![linux](https://img.shields.io/badge/GNU/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![vim](https://img.shields.io/badge/vim-019733?logo=vim&logoColor=white&style=for-the-badge)![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
