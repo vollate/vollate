@@ -1,5 +1,5 @@
 # Hi there 👋, this is Vollate
-- College student in SUSTech(spirtual SUSTCer).
+- Learning in SUSTech currently(spirtual SUSTCer).
 - Major in CS
 - [My blog](https://blog.vollate.top)
 ## Develop Platform & Skills
