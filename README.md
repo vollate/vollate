@@ -17,5 +17,5 @@
 <p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vollate&theme=nord_bright"/>
 <img height=198 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vollate&theme=nord_bright&show_icons=true"/>
-<img height=198 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vollate&title_color=34A08E&layout=compact&hide=vhdl,verilog,systemverilog,tcl,assembly,plpgsql"/>
+<img height=198 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vollate&title_color=34A08E&layout=compact&hide=vhdl,verilog,systemverilog,tcl,assembly,plpgsql,html,shaderlab"/>
 </p>
