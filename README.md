@@ -1,7 +1,7 @@
 # Hi there 👋, this is Vollate
 - Learning in SUSTech currently(spiritual SUSTCer).
 - Major in CS
-- [GPG pub key](https://github.com/vollate.gpg)
+- [PGP](https://github.com/vollate.gpg): 9CDFDE550783E7BB
 
 ## Develop Platform & Skills
 
