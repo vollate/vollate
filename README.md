@@ -1,5 +1,5 @@
 # Hi there 👋, this is Vollate
-- [PGP](https://github.com/vollate.gpg): 9CDFDE550783E7BB
+- [PGP](https://github.com/vollate.gpg): B6E369F4B51D9563
 
 ## Develop Platform & Skills
 
