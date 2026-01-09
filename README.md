@@ -1,5 +1,5 @@
 # Hi there 👋, this is Vollate
-- [PGP](https://github.com/vollate.gpg): B6E369F4B51D9563
+- [PGP](https://github.com/vollate.gpg): A5B9 B2C5 8C04 DCB6 A157  566A 9CDF DE55 0783 E7BB
 - A full stack (maybe) programer working for freedom
 
 ## Develop Platform & Skills
